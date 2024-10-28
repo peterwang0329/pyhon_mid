@@ -18,10 +18,5 @@
 
 **三者變動率比較**
 
-買入
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/買入比較圖.jpg)
-
-賣出
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/賣出比較圖.jpg)
-
-
+匯率變動
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/匯率變動圖.jpg)
