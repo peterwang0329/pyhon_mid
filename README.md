@@ -8,20 +8,20 @@
 **貨幣買入賣出變化**
 
 美金 USD 
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/USD.jpg)
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/USD.jpg)
 
 英鎊 GBP 
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/GBP.jpg)
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/GBP.jpg)
 
 澳幣 AUD 
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/AUD.jpg)
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/AUD.jpg)
 
 **三者變動率比較**
 
 買入
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/買入比較圖.jpg)
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/買入比較圖.jpg)
 
 賣出
-![](https://github.com/peterwang0329/pyhon_mid/blob/main/賣出比較圖.jpg)
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/賣出比較圖.jpg)
 
 
