@@ -20,3 +20,9 @@
 
 匯率變動
 ![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/匯率變動圖.jpg)
+
+
+**三者匯率分佈圖**
+
+匯率分佈
+![](https://github.com/peterwang0329/pyhon_mid/blob/main/opts/分佈圖.jpg)
